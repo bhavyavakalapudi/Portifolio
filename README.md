@@ -1,5 +1,5 @@
-# Portifolio
-Portifolio for any freelancer, describing about themselves, showcasing their experience and contact information
+# Portfolio
+Portfolio for any freelancer, describing about themselves, showcasing their experience and contact information
 
 Changes to make
 - The files can be edited with your information, have added comments wherever the changes are needed
